@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/masterpages/MasterPage.master" AutoEventWireup="true" CodeFile="ThreeCol.master.cs" Inherits="masterpages_ThreeCol" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder4" Runat="Server">
+     <div id="page1">
+      <section id="content" class="wrapper">
+      
+         <div class="line-hor"></div>
+
+         <div class="line-ver">
+
+            <div class="wrapper indent line-ver1">
+
+               <article class="col-1">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+               </article>
+
+               <article class="col-2">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+               </article>
+
+               <article class="col-3">
+                    <asp:ContentPlaceHolder id="ContentPlaceHolder3" runat="server"></asp:ContentPlaceHolder>
+               </article>
+            </div>
+
+         </div>
+
+      </section>
+      </div>
+</asp:Content>
+
