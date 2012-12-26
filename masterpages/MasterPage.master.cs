@@ -29,6 +29,11 @@ public partial class MasterPage : System.Web.UI.MasterPage
             title.InnerHtml = title.InnerHtml + "- Eyelash Extensions";
             divPnlLash.Visible = true;
         }
+        else if (Request.Url.PathAndQuery.IndexOf("Photos") != -1)
+        {
+            title.InnerHtml = title.InnerHtml + "- Photos";
+            divPnlHome.Visible = true;
+        }
         else if (Request.Url.PathAndQuery.IndexOf("Testimonal") != -1)
         {
             title.InnerHtml = title.InnerHtml + "- Testimonals";

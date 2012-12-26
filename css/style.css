@@ -568,5 +568,48 @@ form textarea {
 		    display:inline;
 		}
 		
+.fb {
+		padding:0px;
+		margin:0px;
+	}
+
+
+
+	.fb a, .backToAlbum {
+		text-decoration:none;
+		color:#fff;
+	}
+
+
+
+	.fb li {
+		width:180px;
+		height:180px;
+		float:left;
+		overflow:hidden;
+		border:solid #fff 1px;
+		margin:5px;
+		border-radius:5px;
+	}
+
+
+
+	.fb li div{
+		width:180px;
+		height:180px;
+		background-size:180px 180px;
+		padding:3px;
+	}
+
+
+
+	.fb h3 {
+		margin:0px;
+		padding:0px;
+		color:#fff;
+		text-shadow: 2px 2px 2px #000;
+	}
+
+		
 		
 		

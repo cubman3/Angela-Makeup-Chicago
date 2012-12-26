@@ -33,7 +33,7 @@ public partial class Rates : System.Web.UI.Page
         sb.Append("&Comments=");
         sb.Append(tbComment.Text);
 
-        sb.Append("&Subject=Website Comment - Eyelash Page");
+        sb.Append("&Subject=Website Comment - Special Effect Page");
         sb.Append("&redirect=ThankYou.aspx");
 
         Response.Redirect(sb.ToString());
@@ -41,6 +41,7 @@ public partial class Rates : System.Web.UI.Page
     protected void lbSend_Click(object sender, EventArgs e)
     {
         sendForm();
-        
     }
+
+
 }
