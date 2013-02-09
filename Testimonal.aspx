@@ -4,6 +4,8 @@
 <div class="img-box">
 <h2>Testimonials</h2>
 <img src="images/bio.jpg" />
+<p><a href="http://local.weddingchannel.com/wedding-vendors/Angela-Makeup-Chicago-Reviews?
+ProfileId=245386&s=1.0">Click here to view our testimonials on the weddingchannel.com</a></p>
                   <ul class="testimonials">
                        <li>
                             <cite>After feeling uneasy searching and talking to a few other makeup artists, I found Angela’s website. I was immediately impressed and knew I wanted Angela to do my makeup for my wedding. I contacted her and she immediately responded and I was thrilled she still had my wedding day open. I just had a feeling she would be the perfect makeup artist for my wedding day. We set up the trial and I was so beyond impressed on the way it turned out! I signed the contract that day. Angela came to my house and did my mom, maid of honor, a bridesmaid, and myself. She even came earlier to ensure we were all done on time. Even my maid of honor (who is very picky) loved her. She was very personable, professional, and just fun to be around. She is definitely going to be someone I recommend to everyone I know getting married. Ever bride is so worried about how everything is going to turn out, but with Angela you won’t have to worry about your makeup because she will make you look absolutely gorgeous and stunning! Thank you again Angela for everything!</cite>
@@ -67,9 +69,6 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
 <h2>Contact Us</h2>
-
-
-
 
                   <img src="images/5page-img.jpg" class="img-indent">
 

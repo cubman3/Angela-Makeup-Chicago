@@ -6,6 +6,7 @@
     $(document).ready(function () {
         changenav('home');
     });
+    
 </script>
                   <h2>Testimonials</h2>
 				  
@@ -17,16 +18,27 @@
 
 
                   <ul class="testimonials">
-                     <li><cite>&ldquo;
-                     The wedding was fabulous and you really helped it become such a memorable day.  Your work was just exemplary and it was so much fun to share the prep part of the day with you!  
-                     The makeup was great start to finish! Thank you SO much, Angela!
-                     Much love from a grateful gal,
-                     &rdquo;</cite>
-                        <h5>Jennie</h5>
+                     <li><cite>"Everything was perfect and I would definitely recommend Angela Makeup Chicago to
+anyone looking for great hair and flawless makeup on their wedding day! Both girls that
+came to the house on the morning of the wedding did fantastic jobs on everyone's hair
+and makeup (airbrushed) and were extremely pleasant to work with. They were even able
+to fit an additional person in at the last minute who had changed their mind about getting
+their makeup done. Angela Makeup Chicago is definitely the company to use to make
+you look fabulous on your wedding day"
+                     </cite>
+                        <h5>Nichol Wilson</h5>
                      </li>
-                     <li><cite>&ldquo;Hey Angela --
-                     Thanks so much for everything at G's party!  She loved it.&rdquo;</cite>
-                        <h5>Karen</h5>
+                     <li><cite>"Angela was not only an amazing Vendor to work with she made me feel comfortable
+and special on my Big Day. I was really worried about breaking out prior to my wedding
+day and she gave me a lot of tips to help my skin to prevent any breakouts. The day of
+the wedding she arrived promptly on time, and gave herself enough preparation time to
+be able to begin Make-up at the time scheduled. Everyone in my bridal party absolutely
+loved her and enjoyed having her around. She did a truly amazing job on everyone's
+make-up and I cannot rate her high enough! I would definitely recommend Angela for
+any other upcoming event you would have and you are needing a make-up artist. Not
+only was she extremely professional and talented, she has a true passion for her work and
+was a pleasure to have around. I will definitely use her again! Thank you a Million!"</cite>
+                        <h5>Dana Mandarino</h5>
                      </li>
                   </ul>
                   <a href="Testimonal.aspx" class="link">Read More</a><br />
@@ -35,10 +47,14 @@
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
+<img src="thumbs/barcelona-pavilion2.jpg" rel="#mies2"/>
                   <h2>About Us</h2>
                   <img src="images/Jennie Smith2.jpg" class="img-indent">
                   <p>Known for their perfection and professional manner, Angela and her artists are masters at the art of makeup and lashes. Having over 6 years in the beauty industry, we have experienced it all.  With vast knowledge and expertise in a variety of services, we can handle all of your beauty needs.</p>
                   <a href="AboutUs.aspx" class="link">More About Us</a>
+                   <div class="simple_overlay" id="mies2">
+                   <iframe width="853" height="480" src="http://www.youtube.com/embed/FcQGJrrJZqQ" frameborder="0" allowfullscreen></iframe>
+                   </div>
 </asp:Content>
 
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" Runat="Server">
@@ -67,6 +83,10 @@
                      <a href="#" onClick="document.getElementById('contacts-form').reset()">clear</a>
                      </div>
                      </fieldset>
+
+
+                    
+
 </asp:Content>
 
 

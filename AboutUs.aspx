@@ -12,8 +12,13 @@
 
 
 
-<p>Chicago based Makeup Artist, Angela Goss, and her team specializes in the perfection of creating the exact looks their clients are seeking. As highly trained professionals we focus in airbrush, traditional makeup, bridal updo’s & hair, and eyelash extensions. We look forward to providing you with all of your beauty needs for all of your special events!
-</p>
+<p>Chicago based Makeup Artist, Angela Goss, and her beauty team specializes in the
+perfection of creating the exact looks their clients are seeking. As highly trained
+professionals we focus on our client's needs and wants. We provide all the beauty
+services you will need to standout and look fabulous for your wedding or event. With us,
+you will be working with the best around, from airbrush & traditional makeup to bridal
+updo's and eyelash extensions. We look forward to providing you with all of your beauty
+needs for all of your special events!</p>
 
 <p style="margin-bottom:5px;">We are proud to announce winning for the second year in a row Best of Weddings by theknot!  </p>
 <table>

@@ -5,15 +5,23 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder4" Runat="Server">
 <div id="page4">
-    <section id="content" class="wrapper">
-         <div class="line-hor"></div>
+    <section id="content" class="wrapper">
+
+         <div class="line-hor"></div>
+
          <div class="wrapper indent line-ver1">
 
-            <article class="col-1">                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
-            </article>
-            <article class="col-2 p2">                <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
-            </article>
-         </div>
-      </section></div>
+            <article class="col-1">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+            </article>
+
+            <article class="col-2 p2">
+                <asp:ContentPlaceHolder id="ContentPlaceHolder2" runat="server"></asp:ContentPlaceHolder>
+            </article>
+
+         </div>
+
+      </section>
+</div>
 </asp:Content>
 
