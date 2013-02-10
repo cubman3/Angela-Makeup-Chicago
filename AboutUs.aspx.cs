@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using System.Text;
+using System.Net.Mail;
 
 public partial class AboutUs : System.Web.UI.Page
 {
@@ -32,7 +33,7 @@ public partial class AboutUs : System.Web.UI.Page
         sb.Append("&Comments=");
         sb.Append(tbComment.Text);
 
-        sb.Append("&Subject=Website Comment - About Us Page");
+        sb.Append("&Subject=Website Comment - Airbrush Page");
         sb.Append("&redirect=ThankYou.aspx");
 
         Response.Redirect(sb.ToString());
@@ -41,6 +42,5 @@ public partial class AboutUs : System.Web.UI.Page
     {
         sendForm();
     }
-
 
 }

@@ -5,6 +5,13 @@
 <script>
     $(document).ready(function () {
         changenav('home');
+        $('#vidThumb').click(function () {
+            injectVideo();
+        })
+
+        $('a.close').live('click', function () {
+            stopVideo();
+        })
     });
     
 </script>
@@ -47,13 +54,13 @@ was a pleasure to have around. I will definitely use her again! Thank you a Mill
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
-<img src="thumbs/barcelona-pavilion2.jpg" rel="#mies2"/>
                   <h2>About Us</h2>
-                  <img src="images/Jennie Smith2.jpg" class="img-indent">
-                  <p>Known for their perfection and professional manner, Angela and her artists are masters at the art of makeup and lashes. Having over 6 years in the beauty industry, we have experienced it all.  With vast knowledge and expertise in a variety of services, we can handle all of your beauty needs.</p>
+                  <img src="images/videothumb.png" id="vidThumb" class="img-indent" rel="#mies2" style="margin-bottom:0px; cursor:pointer;">
+                  <span style="color:#eee; padding-bottom:10px;">Click here to view a video of our artists in action</span>
+                  <p style="margin-top:10px;">Known for their perfection and professional manner, Angela and her artists are masters at the art of makeup and lashes. Having over 6 years in the beauty industry, we have experienced it all.  With vast knowledge and expertise in a variety of services, we can handle all of your beauty needs.</p>
                   <a href="AboutUs.aspx" class="link">More About Us</a>
-                   <div class="simple_overlay" id="mies2">
-                   <iframe width="853" height="480" src="http://www.youtube.com/embed/FcQGJrrJZqQ" frameborder="0" allowfullscreen></iframe>
+                   <div class="simple_overlay" id="mies2" style="padding:20px;">
+                   <div id="injectVid" style="width:853px; height:480px;"></div>
                    </div>
 </asp:Content>
 

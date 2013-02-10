@@ -8,7 +8,7 @@
 
 <h2> Airbrush & Bridal Makeup</h2>
 
-<div class="img-box"><img src="images/0789.jpg" />
+<div class="img-box"><img src="images/Airbrush_bridal_makeup_page_new_photo.jpg" />
               
 <h5>Our team can capture almost any look you are going for.  If you are not yet sure about the makeup or hair for your big day, we are great at recommending looks that will best suit your style.  We want you to look your best on your special day and that’s exactly what we strive to succeed for you.  We are the best around and will do everything possible to accommodate your needs.</h5>
 <!--<p>Bridal makeup needs to be beautiful to the naked eye and in photos, but more importantly, it should never be distracting. You should see yourself, not the makeup.</p>

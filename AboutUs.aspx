@@ -33,9 +33,9 @@ needs for all of your special events!</p>
 <a href="http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/reviews">http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/reviews</a></p>
 
 
-
+<div>
 <h5 style="margin-bottom:5px;">Angela - Makeup Artist</h5>
-<img src="images/1332169728575_912bc.png" />
+<img src="images/Angelagoss.jpg" />
 
 <p>
 Highly recommended in the Chicago market, Angela provides her clients with flawless makeup & lashes.  Angela studied and received a minor in theatre makeup artistry from one of the very best theatre schools in the world, DePaul University. Also, Angela attended Dawn Til’ Dusk Makeup School in New Jersey as well as Makeup First LLC in Chicago. Angela has been working as a makeup artist for over seven years in the field of bridal, beauty makeup, special EFX and theatre. She continues to learn, challenge, and improve herself through research and practice. 
@@ -43,15 +43,47 @@ Highly recommended in the Chicago market, Angela provides her clients with flawl
 <p>
 During these past seven years, Angela has had the opportunity to work directly with hundreds of brides, Microsoft for photo shoots & events, Xtreme Lashes brand, as well as theKnot. However, Angela’s experiences with her brides are by far the most fulfilling.  Angela has the unique ability to make every bride feel special and beautiful by bringing out the best features in them, and ultimately providing a service that fulfills the needs of the client. 
 </p>
+<div style="clear:both;"></div>
+</div>
 
-
+<div style="margin-bottom:20px;">
 <h5 style="margin-bottom:5px;">Courtnie - Makeup Artist & Hairstylist</h5>
-<img src="images/1332169850681_1894c.png" />
+<img src="images/CourtnieSaraceno.jpg" />
 
 <p>Known for doing excellent and flawless work, Courtnie has been doing make-up for six years and hair for five years. Give her any photo and she can replicate the work on you.  Currently working the salon in the Willis Tower, A Cut Above, Courtnie keeps her artistic abilities fresh as she practices them daily. 
 </p>
 <p>As an artist for Angela Makeup Chicago, Courtnie has experience in hair and make-up for brides, fashion shows and photo shoots.  Her favorite thing about doing hair and make-up for weddings and special events is being able to be a part of someone's most special day. She loves making people feel beautiful and confident.
 </p>
+<div style="clear:both;"></div>
+</div>
+
+
+<div style="margin-bottom:20px;">
+<h5 style="margin-bottom:5px;">Stacie</h5>
+<img src="images/StacieDavis.jpg" />
+
+<p>Stacie has been in the industry as a stylist for over 8 years. She has worked as an
+educator for many great product lines as well as to many great stylists. Although she has
+been doing hair for many years her passion to grow and learn has never subsided. Stacie
+is known for her attention to detail and flawless styles she creates, whether it’s a walk
+down the aisle or a walk on the red carpet.</p>
+<div style="clear:both;"></div>
+</div>
+
+<div>
+<h5 style="margin-bottom:5px;">Lauren</h5>
+<img src="images/LaurenGuillen.jpg" />
+
+<p>Lauren Guillen is a certified makeup artist, who graduated from Makeup
+Designory in Los Angeles. She specializes in beauty, bridal, airbrush, &
+special effects makeup. She has a huge passion for makeup, and loves to give
+her clients exactly what they ask for; whether it's natural or dramatic. She is
+extremely experienced in the industry. Lauren has worked for major brands
+& freelanced out of a handful of salons. She will enhance your natural beauty
+without masking it, and make you glamorous for any occasion!</p>
+<div style="clear:both;"></div>
+</div>
+
 
 <!--
 <h5 style="margin-bottom:5px;">Ashley - Makeup Artist & Hairstylist</h5>

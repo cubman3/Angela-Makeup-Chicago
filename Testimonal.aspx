@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 <div class="img-box">
 <h2>Testimonials</h2>
-<img src="images/bio.jpg" />
+<img src="images/bride_and_groom_photo.jpg" />
 <p><a href="http://local.weddingchannel.com/wedding-vendors/Angela-Makeup-Chicago-Reviews?
 ProfileId=245386&s=1.0">Click here to view our testimonials on the weddingchannel.com</a></p>
                   <ul class="testimonials">
