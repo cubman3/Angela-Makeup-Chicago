@@ -20,12 +20,14 @@ you will be working with the best around, from airbrush & traditional makeup to 
 updo's and eyelash extensions. We look forward to providing you with all of your beauty
 needs for all of your special events!</p>
 
-<p style="margin-bottom:5px;">We are proud to announce winning for the second year in a row Best of Weddings by theknot!  </p>
+<p style="margin-bottom:5px;">We are proud to announce winning for the third year in a row Best of Weddings by theknot!  </p>
 <table>
 <tr>
-<td><img align="right" style="margin:5px;" src='http://partnerimages.theknot.com/2011/2011_BOW_gold_web_70x70.gif' alt='2011 Pick - Best of Weddings on The Knot' border='0' />
+<td><img align="right" style="margin:5px;" src='images/2011knot.jpg' alt='2011 Pick - Best of Weddings on The Knot' border='0' />
 </td>
-<td><img align="right" style="margin:5px;" src='images/1338756216516_ae81e.png' alt='2012 Pick - Best of Weddings on The Knot' border='0' />
+<td><img align="right" style="margin:5px;" src='images/2012knot.gif' alt='2012 Pick - Best of Weddings on The Knot' border='0' />
+</td>
+<td><img align="right" style="margin:5px;" src='images/2013knot.gif' alt='2013 Pick - Best of Weddings on The Knot' border='0' />
 </td>
 </tr>
 </table>

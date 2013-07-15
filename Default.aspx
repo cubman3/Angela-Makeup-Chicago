@@ -20,8 +20,8 @@
 				  
 <p>
 <a href='http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/profile'>
-<img align="right" style="margin:5px;" src='images/1338756216516_ae81e.png' alt='2011 Pick - Best of Weddings on The Knot' border='0' />
-</a>We are proud to announce that Angela Makeup Chicago has been rated by local brides and voted The Knot Best of Weddings 2012 Pick.</p>
+<img align="right" style="margin:5px;" src='images/2013knotmini.gif' alt='2013 Pick - Best of Weddings on The Knot' border='0' />
+</a>We are proud to announce that Angela Makeup Chicago has been rated by local brides and voted The Knot Best of Weddings 2013 Pick.</p>
 
 
                   <ul class="testimonials">
