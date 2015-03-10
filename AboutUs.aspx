@@ -20,17 +20,26 @@ you will be working with the best around, from airbrush & traditional makeup to 
 updo's and eyelash extensions. We look forward to providing you with all of your beauty
 needs for all of your special events!</p>
 
-<p style="margin-bottom:5px;">We are proud to announce winning for the third year in a row Best of Weddings by theknot!  </p>
-<table>
-<tr>
-<td><img align="right" style="margin:5px;" src='images/2011knot.jpg' alt='2011 Pick - Best of Weddings on The Knot' border='0' />
-</td>
-<td><img align="right" style="margin:5px;" src='images/2012knot.gif' alt='2012 Pick - Best of Weddings on The Knot' border='0' />
-</td>
-<td><img align="right" style="margin:5px;" src='images/2013knot.gif' alt='2013 Pick - Best of Weddings on The Knot' border='0' />
-</td>
-</tr>
-</table>
+<p>
+<a href="http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/profile">
+<img align="right" style="margin:5px; width: 110px;" src="images/BOW_HOF_DarkBlue_1x1_300dpi.png" alt="2014 Pick - Best of Weddings on The Knot" border="0" />
+</a>We are proud to announce that Angela Makeup Chicago has been voted into the The Knots Best of Weddings Hall of Fame.</p>
+
+<ul class="award-bar">
+
+
+
+  <li><img align="right" style="margin:5px;" src="images/2011knot.jpg" alt="2011 Pick - Best of Weddings on The Knot" border="0" /></li>
+
+<li><img align="right" style="margin:5px;" src="images/2012knot.gif" alt="2014 Pick - Best of Weddings on The Knot" border="0" /></li>
+
+<li><img align="right" style="margin:5px;" src="images/2013knot.gif" alt="2013 Pick - Best of Weddings on The Knot" border="0" /></li>
+  
+  
+  <li><img align="right" style="margin:5px;" src="images/2014BOW_VendorProfile_Blue_100x100.gif" alt="2014 Pick - Best of Weddings on The Knot" border="0" /></li>
+  <li><img align="right" style="margin:5px;" src="images/2015BOW_VendorProfile_Blue_120x120.jpg" alt="2015 Pick - Best of Weddings on The Knot" border="0" /></li>
+</ul>
+<div style="clear:both"></div>
 <p>Please read some of our reviews at 
 <a href="http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/reviews">http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/reviews</a></p>
 
@@ -114,7 +123,7 @@ Dana is extremely passionate about her career as a cosmetologist. Over 7 years o
 
 
 
-                  <img src="images/5page-img.jpg" class="img-indent">
+                  <img src="images/FullSizeRender.jpg" class="img-indent">
 
                   <address>
 

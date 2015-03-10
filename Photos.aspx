@@ -31,9 +31,13 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder2" Runat="Server">
 <h2>Rates</h2>
-<p>Rates are based upon the type of look you are going for and how much prep work is involved. Please contact us for more information</p>
-<p>To inquire on Special EFX Makeup, please provide us with the following information:</p>               
 
+<p>
+Rates are based upon the type of look you are going for and how much prep work is involved. Please contact us for more information
+</p>
+<p>
+To inquire on Bridal Airbrush Makeup, please provide us with the following information:
+</p>
 
                     <fieldset id="contacts-form">
 

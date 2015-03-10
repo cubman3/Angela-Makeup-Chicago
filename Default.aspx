@@ -19,9 +19,22 @@
 				  
 				  
 <p>
-<a href='http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/profile'>
-<img align="right" style="margin:5px;" src='images/2013knotmini.gif' alt='2013 Pick - Best of Weddings on The Knot' border='0' />
-</a>We are proud to announce that Angela Makeup Chicago has been rated by local brides and voted The Knot Best of Weddings 2013 Pick.</p>
+<a href="http://www.theknot.com/Vendors/Angela-Makeup-Chicago/Profile/HBF/179/245386/profile">
+<img align="right" style="margin:5px; width: 100px;" src="images/BOW_HOF_DarkBlue_1x1_300dpi.png" alt="2014 Pick - Best of Weddings on The Knot" border="0" />
+</a>We are proud to announce that Angela Makeup Chicago has been voted into the The Knots Best of Weddings Hall of Fame.</p>
+
+<ul class="award-bar">
+<li><img align="right" style="margin:5px;" src="images/2015BOW_VendorProfile_Blue_120x120.jpg" alt="2015 Pick - Best of Weddings on The Knot" border="0" /></li>
+<li><img align="right" style="margin:5px;" src="images/2014BOW_VendorProfile_Blue_100x100.gif" alt="2014 Pick - Best of Weddings on The Knot" border="0" /></li>
+<li><img align="right" style="margin:5px;" src="images/2013knot.gif" alt="2013 Pick - Best of Weddings on The Knot" border="0" /></li>
+  <li><img align="right" style="margin:5px;" src="images/2012knot.gif" alt="2014 Pick - Best of Weddings on The Knot" border="0" /></li>
+
+  <li><img align="right" style="margin:5px;" src="images/2011knot.jpg" alt="2011 Pick - Best of Weddings on The Knot" border="0" /></li>
+
+  
+  
+  
+</ul>
 
 
                   <ul class="testimonials">
