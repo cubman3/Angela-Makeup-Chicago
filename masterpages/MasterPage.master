@@ -76,7 +76,25 @@
 		<div class="scrollWrapper"> 
 			
 
-<div class="scrollableArea" runat="server" id="divPnlHome" visible="false">             
+<div class="scrollableArea" runat="server" id="divPnlHome" visible="false">     
+    <img src="../images/HPimages/Untitled-1.jpg">   
+    <img src="../images/HPimages/Untitled-12.jpg">
+    <img src="../images/HPimages/Untitled-3.jpg">   
+    <img src="../images/HPimages/Untitled-5.jpg"> 
+    <img src="../images/HPimages/Untitled-7.jpg"> 
+    <img src="../images/HPimages/Untitled-9.jpg">
+    <img src="../images/HPimages/Untitled-11.jpg">
+    <img src="../images/HPimages/Untitled-6.jpg"> 
+    <img src="../images/HPimages/Untitled-4.jpg">
+    <img src="../images/HPimages/Untitled-13.jpg">
+    <img src="../images/HPimages/Untitled-8.jpg"> 
+    <img src="../images/HPimages/Untitled-14.jpg">
+    <img src="../images/HPimages/Untitled-10.jpg">
+     
+    
+    <img src="../images/HPimages/Untitled-2.jpg">  
+
+    <!--
     <img src="../images/panels/1_DelMedico_IMG_7639.jpg" height="375" width="178">
     <img src="../images/panels/3_DelMedico_IMG_4755.jpg" height="375" width="178">
     <img src="../images/panels/3_DelMedico_IMG_4809.jpg" height="375" width="178">
@@ -100,6 +118,9 @@
     <img src="../images/panels/cori3.jpg" height="375" width="178">
     <img src="../images/panels/Dana Wedding 2 023.jpg" height="375" width="178">
     <img src="../images/panels/IMG_8754.jpg" height="375" width="178">
+
+
+    -->
 </div>
 <div class="scrollableArea" runat="server" id="divPnlSfx" visible="false"> 
     <img src="../images/panels/sfx (1).jpg" height="375" width="178">
